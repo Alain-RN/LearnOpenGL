@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "first_game",
+					"name" : "FirstGame",
 					"targetIndexes" : 
 					[
 						0
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "first_game::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-first_game-Debug-942ac6a3d8d2cd3c6965.json",
+					"jsonFile" : "target-first_game-Debug-c41fc69833169811e09c.json",
 					"name" : "first_game",
 					"projectIndex" : 0
 				}

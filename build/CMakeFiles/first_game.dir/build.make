@@ -108,6 +108,8 @@ first_game_EXTERNAL_OBJECTS =
 first_game: CMakeFiles/first_game.dir/src/main.cpp.o
 first_game: CMakeFiles/first_game.dir/src/glad.c.o
 first_game: CMakeFiles/first_game.dir/build.make
+first_game: /usr/lib/x86_64-linux-gnu/libGLX.so
+first_game: /usr/lib/x86_64-linux-gnu/libOpenGL.so
 first_game: CMakeFiles/first_game.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/noelisoa/Bureau/FirstGame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable first_game"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/first_game.dir/link.txt --verbose=$(VERBOSE)

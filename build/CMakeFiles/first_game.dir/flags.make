@@ -5,13 +5,13 @@
 # compile CXX with /usr/bin/g++
 C_DEFINES = 
 
-C_INCLUDES = 
+C_INCLUDES = -I/home/noelisoa/Bureau/FirstGame/include
 
 C_FLAGS = -g
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/noelisoa/Bureau/FirstGame/include
 
 CXX_FLAGS = -g
 

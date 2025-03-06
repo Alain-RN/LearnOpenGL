@@ -1,13 +1,13 @@
 [
 {
   "directory": "/home/noelisoa/Bureau/FirstGame/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/first_game.dir/src/main.cpp.o -c /home/noelisoa/Bureau/FirstGame/src/main.cpp",
+  "command": "/usr/bin/g++  -I/home/noelisoa/Bureau/FirstGame/include -g -o CMakeFiles/first_game.dir/src/main.cpp.o -c /home/noelisoa/Bureau/FirstGame/src/main.cpp",
   "file": "/home/noelisoa/Bureau/FirstGame/src/main.cpp",
   "output": "CMakeFiles/first_game.dir/src/main.cpp.o"
 },
 {
   "directory": "/home/noelisoa/Bureau/FirstGame/build",
-  "command": "/usr/bin/gcc   -g -o CMakeFiles/first_game.dir/src/glad.c.o -c /home/noelisoa/Bureau/FirstGame/src/glad.c",
+  "command": "/usr/bin/gcc  -I/home/noelisoa/Bureau/FirstGame/include -g -o CMakeFiles/first_game.dir/src/glad.c.o -c /home/noelisoa/Bureau/FirstGame/src/glad.c",
   "file": "/home/noelisoa/Bureau/FirstGame/src/glad.c",
   "output": "CMakeFiles/first_game.dir/src/glad.c.o"
 }

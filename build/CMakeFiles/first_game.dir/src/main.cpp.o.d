@@ -1,6 +1,6 @@
 CMakeFiles/first_game.dir/src/main.cpp.o: \
  /home/noelisoa/Bureau/FirstGame/src/main.cpp /usr/include/stdc-predef.h \
- /home/noelisoa/Bureau/FirstGame/src/glad.h \
+ /home/noelisoa/Bureau/FirstGame/include/glad.h \
  /usr/include/KHR/khrplatform.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
