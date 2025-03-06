@@ -1,0 +1,3 @@
+/home/noelisoa/Bureau/FirstGame/build/CMakeFiles/first_game.dir
+/home/noelisoa/Bureau/FirstGame/build/CMakeFiles/edit_cache.dir
+/home/noelisoa/Bureau/FirstGame/build/CMakeFiles/rebuild_cache.dir
