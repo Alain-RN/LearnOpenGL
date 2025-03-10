@@ -1,25 +1,3 @@
-# cmake_minimum_required(VERSION 3.10)
-# project(first_game VERSION 0.1.0)
-# cmake_policy(SET CMP0072 NEW)
-
-# set(CMAKE_PREFIX_PATH "/usr/lib/x86_64-linux-gnu/cmake")
-
-# find_package(OpenGL REQUIRED)
-# # find_package(GLFW3 REQUIRED)
-
-# add_executable(
-#         first_game 
-#         src/main.cpp
-#         src/glad.h 
-#         src/glad.c
-# )
-
-# target_link_libraries( 
-#         first_game 
-#         glfw 
-#         OpenGL::GL
-# )
-
 cmake_minimum_required(VERSION 3.10)
 project(FirstGame)
 cmake_policy(SET CMP0072 NEW)

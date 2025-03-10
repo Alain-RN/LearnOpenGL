@@ -251,6 +251,9 @@ GLFW3_DIR:PATH=GLFW3_DIR-NOTFOUND
 //The directory containing a CMake configuration file for GLFW.
 GLFW_DIR:PATH=GLFW_DIR-NOTFOUND
 
+//The directory containing a CMake configuration file for G.
+G_DIR:PATH=G_DIR-NOTFOUND
+
 //Single output directory for building all libraries.
 LIBRARY_OUTPUT_PATH:PATH=
 

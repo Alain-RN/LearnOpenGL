@@ -3,8 +3,8 @@
 
 CMakeFiles/first_game.dir/src/glad.c.o
  /home/noelisoa/Bureau/FirstGame/src/glad.c
- /home/noelisoa/Bureau/FirstGame/include/glad.h
- /usr/include/KHR/khrplatform.h
+ /home/noelisoa/Bureau/FirstGame/include/KHR/khrplatform.h
+ /home/noelisoa/Bureau/FirstGame/include/glad/glad.h
  /usr/include/alloca.h
  /usr/include/dlfcn.h
  /usr/include/endian.h
@@ -73,8 +73,8 @@ CMakeFiles/first_game.dir/src/glad.c.o
 
 CMakeFiles/first_game.dir/src/main.cpp.o
  /home/noelisoa/Bureau/FirstGame/src/main.cpp
- /home/noelisoa/Bureau/FirstGame/include/glad.h
- /usr/include/KHR/khrplatform.h
+ /home/noelisoa/Bureau/FirstGame/include/KHR/khrplatform.h
+ /home/noelisoa/Bureau/FirstGame/include/glad/glad.h
  /usr/include/alloca.h
  /usr/include/asm-generic/errno-base.h
  /usr/include/asm-generic/errno.h
